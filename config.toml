@@ -11,7 +11,7 @@ baseURL = "https://hunarpreeetsingh.github.io/www"
 publishDir = "docs"
 
 # 2. Type # at the beginning of line below
-publishDir = "../public_html/www"
+#publishDir = "../public_html/www"
 
 languageCode = "en-us"
 theme = "ananke"
