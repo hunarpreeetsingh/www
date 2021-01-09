@@ -1,6 +1,6 @@
 ---
 title: "Hunarpreet Singh"
-featured_image: 'https://oecdenvironmentfocusblog.files.wordpress.com/2020/06/wed-blog-shutterstock_1703194387_low_nwm.jpg'
+featured_image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRBb90bFDXgmp_tYUjhcDEqlq_wiCqdCLVQ&usqp=CAU'
 description: "Branch-Mechanical Engineering ,ME-A1-2030106"
 ---
 Welcome to my blog .
